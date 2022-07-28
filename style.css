@@ -11,3 +11,9 @@
     border: 3px solid #73AD21;
     
 }
+li
+{
+    display:inline-block;
+    position: static;
+    color:brown;
+}
