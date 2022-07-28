@@ -20,9 +20,9 @@ li
     padding: 5px;
 }
 
-body
+#main-container
 {
-background-image: url("img\priscilla-du-preez-qtkpOxCpl0Y-unsplash.jpg");
+background-image: url(img\priscilla-du-preez-qtkpOxCpl0Y-unsplash.jpg);
 background-repeat: repeat;
 background-size: cover;
 
