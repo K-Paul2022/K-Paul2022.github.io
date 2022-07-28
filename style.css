@@ -16,4 +16,11 @@ li
     display:inline-block;
     position: static;
     color:brown;
+    margin:5px;
+    padding: 5px;
+}
+
+.container
+{
+    background-image:url("C:\Users\Paul\OneDrive\Bureau\repositories\K-Paul2022.github.io\img");
 }
