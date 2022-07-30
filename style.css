@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px
+    box-sizing: border-box;
+}
+.background
+{
+background-image: url(./img/priscilla-du-preez-qtkpOxCpl0Y-unsplash.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+background-position: center;
+}
+
+.menu
+{
+    color:brown;
+    background-color:azure;
+    font-size:medium;
+    margin:auto;
+    padding:auto;
+    text-align: center;
+    display:inline-block;
+    position: static;
+    border: 3px solid #73AD21;
+    
+}
+li
+{
+    display:inline-block;
+    position: static;
+    color:brown;
+    margin:5px;
+    padding: 5px;
+}
+
